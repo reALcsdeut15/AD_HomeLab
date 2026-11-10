@@ -47,6 +47,10 @@ monitoring.
 
 <img width="1362" height="758" alt="Host resources in Task Manager" src="https://github.com/user-attachments/assets/aa866853-dcd1-409c-a15a-598542ca0361" />
 
+*AD-LAB NAT Network created with VBoxManage (DHCP disabled)*
+
+<img width="1107" height="616" alt="DESCRIBE THIS SCREENSHOT" src="https://github.com/user-attachments/assets/3cee573d-37ba-4344-989f-97cc211b6566" />
+
 ### Module 2: Build the Domain Controller VM
 - **Objective:** Create the DC01 virtual machine and install Windows Server 2025.
 - **Status:** Complete ✅
@@ -69,10 +73,6 @@ monitoring.
 *Server 2025 ISO attached in DC01 storage settings*
 
 <img width="793" height="531" alt="Server 2025 ISO attached to DC01" src="https://github.com/user-attachments/assets/69e6b027-eb09-4a80-9def-862e31fa798d" />
-
-*DESCRIBE THIS SCREENSHOT*
-
-<img width="1107" height="616" alt="DESCRIBE THIS SCREENSHOT" src="https://github.com/user-attachments/assets/3cee573d-37ba-4344-989f-97cc211b6566" />
 
 *DESCRIBE THIS SCREENSHOT*
 
