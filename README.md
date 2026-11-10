@@ -45,7 +45,8 @@ monitoring.
 
 *Host resources in Task Manager*
 
-<img width="1362" height="758" alt="Host resources in Task Manager" src="https://github.com/user-attachments/assets/aa866853-dcd1-409c-a15a-598542ca0361" />
+<img width="813" height="395" alt="Screenshot 2026-11-10 at 11 48 54 AM" src="https://github.com/user-attachments/assets/79cd79e8-34b4-41bf-8aab-aeec32b787bc" />
+
 
 *AD-LAB NAT Network created with VBoxManage (DHCP disabled)*
 
