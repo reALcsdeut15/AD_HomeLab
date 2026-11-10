@@ -75,6 +75,6 @@ monitoring.
 
 <img width="793" height="531" alt="Server 2025 ISO attached to DC01" src="https://github.com/user-attachments/assets/69e6b027-eb09-4a80-9def-862e31fa798d" />
 
-*DESCRIBE THIS SCREENSHOT*
+*Server 2025 desktop after first sign in*
 
 <img width="1117" height="745" alt="DESCRIBE THIS SCREENSHOT" src="https://github.com/user-attachments/assets/a71f87b6-072e-48fe-9a82-509597601a40" />
