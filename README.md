@@ -78,3 +78,8 @@ monitoring.
 *Server 2025 desktop after first sign in*
 
 <img width="1117" height="745" alt="DESCRIBE THIS SCREENSHOT" src="https://github.com/user-attachments/assets/a71f87b6-072e-48fe-9a82-509597601a40" />
+
+*Fresh install saved as a restore point in VirtualBox Manager*
+
+<img width="797" height="705" alt="unnamed" src="https://github.com/user-attachments/assets/43e58620-9f0a-4227-9ef5-ca29a47602d0" />
+
