@@ -4,6 +4,8 @@
 
 **Project started:** November 2026
 
+**Concepts:** See [concepts.md](concepts.md) for plain language explanations of core AD concepts.
+
 ## Project Objective
 Build a Windows Active Directory environment from scratch to practice
 identity and access management, help desk support tasks, and security
