@@ -2,11 +2,12 @@
 
 ### Project Status: Phase 1, Building the Domain
 
+**Project started:** November 2026
+
 ## Project Objective
 Build a Windows Active Directory environment from scratch to practice
 identity and access management, help desk support tasks, and security
 monitoring.
-**Project started:** November 2026
 
 ## Skills Demonstrated
 - Virtualization and VM configuration (Oracle VirtualBox)
@@ -29,8 +30,6 @@ monitoring.
 | CLIENT01 | DHCP from DC01 |
 | DHCP scope | 10.0.0.100 to 10.0.0.200 |
 
-## Milestone Logs
-
 ## Lab Modules
 
 ### Module 1: Lab Network and Host Planning
@@ -44,8 +43,9 @@ monitoring.
 - **Skills:** Virtualization, network planning, VBoxManage CLI
 - **Verification:**
 
-<img width="1362" height="758" alt="unnamed" src="https://github.com/user-attachments/assets/aa866853-dcd1-409c-a15a-598542ca0361" />
+*Host resources in Task Manager*
 
+<img width="1362" height="758" alt="Host resources in Task Manager" src="https://github.com/user-attachments/assets/aa866853-dcd1-409c-a15a-598542ca0361" />
 
 ### Module 2: Build the Domain Controller VM
 - **Objective:** Create the DC01 virtual machine and install Windows Server 2025.
@@ -62,10 +62,18 @@ monitoring.
 - **Skills:** VM configuration, Windows Server installation, boot troubleshooting
 - **Verification:**
 
-<img width="812" height="395" alt="unnamed" src="https://github.com/user-attachments/assets/0eee47b1-d760-4659-a895-d2092572e4b4" />
+*DC01 configuration summary*
 
-<img width="793" height="531" alt="unnamed" src="https://github.com/user-attachments/assets/69e6b027-eb09-4a80-9def-862e31fa798d" />
+<img width="812" height="395" alt="DC01 configuration summary" src="https://github.com/user-attachments/assets/0eee47b1-d760-4659-a895-d2092572e4b4" />
 
-<img width="1107" height="616" alt="unnamed" src="https://github.com/user-attachments/assets/3cee573d-37ba-4344-989f-97cc211b6566" />
+*Server 2025 ISO attached in DC01 storage settings*
 
-<img width="1117" height="745" alt="unnamed" src="https://github.com/user-attachments/assets/a71f87b6-072e-48fe-9a82-509597601a40" />
+<img width="793" height="531" alt="Server 2025 ISO attached to DC01" src="https://github.com/user-attachments/assets/69e6b027-eb09-4a80-9def-862e31fa798d" />
+
+*DESCRIBE THIS SCREENSHOT*
+
+<img width="1107" height="616" alt="DESCRIBE THIS SCREENSHOT" src="https://github.com/user-attachments/assets/3cee573d-37ba-4344-989f-97cc211b6566" />
+
+*DESCRIBE THIS SCREENSHOT*
+
+<img width="1117" height="745" alt="DESCRIBE THIS SCREENSHOT" src="https://github.com/user-attachments/assets/a71f87b6-072e-48fe-9a82-509597601a40" />
